@@ -87,6 +87,7 @@ clrscr;
             write('Produk yang Anda pilih: ', produk);
             writeln;
             write('Kembalian Anda: Rp', kembalian:5:2);
+            writeln;
         end
 
     else if (uang = harga) then
